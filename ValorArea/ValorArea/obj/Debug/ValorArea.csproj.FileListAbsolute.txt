@@ -1,0 +1,10 @@
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\ValorArea\ValorArea\obj\Debug\ValorArea.csprojAssemblyReference.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\ValorArea\ValorArea\obj\Debug\ValorArea.Properties.Resources.resources
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\ValorArea\ValorArea\obj\Debug\ValorArea.csproj.GenerateResource.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\ValorArea\ValorArea\obj\Debug\ValorArea.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\ValorArea\ValorArea\bin\Debug\ValorArea.exe.config
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\ValorArea\ValorArea\bin\Debug\ValorArea.exe
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\ValorArea\ValorArea\bin\Debug\ValorArea.pdb
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\ValorArea\ValorArea\obj\Debug\ValorArea.exe
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\ValorArea\ValorArea\obj\Debug\ValorArea.pdb
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\ValorArea\ValorArea\obj\Debug\ValorArea.frmValorArea.resources

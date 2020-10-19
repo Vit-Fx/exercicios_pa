@@ -1,0 +1,10 @@
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcLitrosUsados\CalcLitrosUsados\bin\Debug\CalcLitrosUsados.exe.config
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcLitrosUsados\CalcLitrosUsados\bin\Debug\CalcLitrosUsados.exe
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcLitrosUsados\CalcLitrosUsados\bin\Debug\CalcLitrosUsados.pdb
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcLitrosUsados\CalcLitrosUsados\obj\Debug\CalcLitrosUsados.csprojAssemblyReference.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcLitrosUsados\CalcLitrosUsados\obj\Debug\CalcLitrosUsados.Form1.resources
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcLitrosUsados\CalcLitrosUsados\obj\Debug\CalcLitrosUsados.Properties.Resources.resources
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcLitrosUsados\CalcLitrosUsados\obj\Debug\CalcLitrosUsados.csproj.GenerateResource.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcLitrosUsados\CalcLitrosUsados\obj\Debug\CalcLitrosUsados.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcLitrosUsados\CalcLitrosUsados\obj\Debug\CalcLitrosUsados.exe
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcLitrosUsados\CalcLitrosUsados\obj\Debug\CalcLitrosUsados.pdb

@@ -1,0 +1,10 @@
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\DiferencaEntreValores\DiferencaEntreValores\bin\Debug\DiferencaEntreValores.exe.config
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\DiferencaEntreValores\DiferencaEntreValores\bin\Debug\DiferencaEntreValores.exe
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\DiferencaEntreValores\DiferencaEntreValores\bin\Debug\DiferencaEntreValores.pdb
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\DiferencaEntreValores\DiferencaEntreValores\obj\Debug\DiferencaEntreValores.csprojAssemblyReference.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\DiferencaEntreValores\DiferencaEntreValores\obj\Debug\DiferencaEntreValores.Form1.resources
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\DiferencaEntreValores\DiferencaEntreValores\obj\Debug\DiferencaEntreValores.Properties.Resources.resources
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\DiferencaEntreValores\DiferencaEntreValores\obj\Debug\DiferencaEntreValores.csproj.GenerateResource.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\DiferencaEntreValores\DiferencaEntreValores\obj\Debug\DiferencaEntreValores.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\DiferencaEntreValores\DiferencaEntreValores\obj\Debug\DiferencaEntreValores.exe
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\DiferencaEntreValores\DiferencaEntreValores\obj\Debug\DiferencaEntreValores.pdb

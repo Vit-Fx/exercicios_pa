@@ -1,0 +1,10 @@
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalculoDeQuatroNumeros\CalculoDeQuatroNumeros\bin\Debug\CalculoDeQuatroNumeros.exe.config
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalculoDeQuatroNumeros\CalculoDeQuatroNumeros\bin\Debug\CalculoDeQuatroNumeros.exe
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalculoDeQuatroNumeros\CalculoDeQuatroNumeros\bin\Debug\CalculoDeQuatroNumeros.pdb
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalculoDeQuatroNumeros\CalculoDeQuatroNumeros\obj\Debug\CalculoDeQuatroNumeros.csprojAssemblyReference.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalculoDeQuatroNumeros\CalculoDeQuatroNumeros\obj\Debug\CalculoDeQuatroNumeros.Form1.resources
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalculoDeQuatroNumeros\CalculoDeQuatroNumeros\obj\Debug\CalculoDeQuatroNumeros.Properties.Resources.resources
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalculoDeQuatroNumeros\CalculoDeQuatroNumeros\obj\Debug\CalculoDeQuatroNumeros.csproj.GenerateResource.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalculoDeQuatroNumeros\CalculoDeQuatroNumeros\obj\Debug\CalculoDeQuatroNumeros.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalculoDeQuatroNumeros\CalculoDeQuatroNumeros\obj\Debug\CalculoDeQuatroNumeros.exe
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalculoDeQuatroNumeros\CalculoDeQuatroNumeros\obj\Debug\CalculoDeQuatroNumeros.pdb

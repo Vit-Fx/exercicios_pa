@@ -1,0 +1,10 @@
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcMoeda\CalcMoeda\bin\Debug\CalcMoeda.exe.config
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcMoeda\CalcMoeda\bin\Debug\CalcMoeda.exe
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcMoeda\CalcMoeda\bin\Debug\CalcMoeda.pdb
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcMoeda\CalcMoeda\obj\Debug\CalcMoeda.csprojAssemblyReference.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcMoeda\CalcMoeda\obj\Debug\CalcMoeda.Properties.Resources.resources
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcMoeda\CalcMoeda\obj\Debug\CalcMoeda.csproj.GenerateResource.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcMoeda\CalcMoeda\obj\Debug\CalcMoeda.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcMoeda\CalcMoeda\obj\Debug\CalcMoeda.exe
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcMoeda\CalcMoeda\obj\Debug\CalcMoeda.pdb
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcMoeda\CalcMoeda\obj\Debug\CalcMoeda.frmCalcMoeda.resources

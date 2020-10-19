@@ -1,0 +1,10 @@
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\ConversaoTemp\ConversaoTemp\bin\Debug\ConversaoTemp.exe.config
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\ConversaoTemp\ConversaoTemp\bin\Debug\ConversaoTemp.exe
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\ConversaoTemp\ConversaoTemp\bin\Debug\ConversaoTemp.pdb
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\ConversaoTemp\ConversaoTemp\obj\Debug\ConversaoTemp.csprojAssemblyReference.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\ConversaoTemp\ConversaoTemp\obj\Debug\ConversaoTemp.Form1.resources
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\ConversaoTemp\ConversaoTemp\obj\Debug\ConversaoTemp.Properties.Resources.resources
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\ConversaoTemp\ConversaoTemp\obj\Debug\ConversaoTemp.csproj.GenerateResource.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\ConversaoTemp\ConversaoTemp\obj\Debug\ConversaoTemp.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\ConversaoTemp\ConversaoTemp\obj\Debug\ConversaoTemp.exe
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\ConversaoTemp\ConversaoTemp\obj\Debug\ConversaoTemp.pdb

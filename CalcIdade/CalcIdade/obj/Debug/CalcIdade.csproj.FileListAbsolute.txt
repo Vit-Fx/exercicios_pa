@@ -1,0 +1,10 @@
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcIdade\CalcIdade\bin\Debug\CalcIdade.exe.config
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcIdade\CalcIdade\bin\Debug\CalcIdade.exe
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcIdade\CalcIdade\bin\Debug\CalcIdade.pdb
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcIdade\CalcIdade\obj\Debug\CalcIdade.csprojAssemblyReference.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcIdade\CalcIdade\obj\Debug\CalcIdade.Form1.resources
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcIdade\CalcIdade\obj\Debug\CalcIdade.Properties.Resources.resources
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcIdade\CalcIdade\obj\Debug\CalcIdade.csproj.GenerateResource.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcIdade\CalcIdade\obj\Debug\CalcIdade.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcIdade\CalcIdade\obj\Debug\CalcIdade.exe
+C:\Users\vitor\Documents\etec\Programação e Algoritimo - Prof.Nivia\_projetos\WindowsFormsApp1\CalcIdade\CalcIdade\obj\Debug\CalcIdade.pdb
